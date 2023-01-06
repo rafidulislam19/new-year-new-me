@@ -150,3 +150,26 @@ section {
   text-decoration: none;
   margin-right: 10px;
 }
+.new-section {
+  height: 700px;
+  width: 75%;
+  background-image: url("../images/banner/banner2.png");
+  border-radius: 8px;
+}
+.newSection-infos {
+  float: right;
+  text-align: right;
+  padding-top: 216px;
+  padding-bottom: 216px;
+  padding-right: 230px;
+  width: 30%;
+}
+.new-section-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.new-section p {
+  font-size: 18px;
+}
